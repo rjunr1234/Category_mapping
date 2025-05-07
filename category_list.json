@@ -1,5 +1,4 @@
-category_mapping = {
-        "GlobalX": {
+"GlobalX": {
             "GlobalX-ASIN Creation": [
                 "ASIN Set Up", "Variation Set Up", "GlobalX- List Price Backfill",
                 "GlobalX-Localization", "GlobalX- Other Catalog Attributes Backfill"
@@ -137,5 +136,3 @@ category_mapping = {
             "Virtual Bundle": [
                 "Virtual Bundle"
             ]
-        }
-    }

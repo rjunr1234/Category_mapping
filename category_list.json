@@ -101,11 +101,16 @@
             "Vendor Stock Level Outreach",
             "Vendor Training and Magentrix"
         ]
+        "PBC Externalization": [
+            "PBC Vendor Facing Support",
+            "PBC UAT"
+        ]   
     },
     "Selection Deprecation": {
         "ASIN Deprecation": [
             "ASIN Deprecation",
-            "Un-Deprecation"
+            "Un-Deprecation",
+            "VMP ASIN Un-VMP"
         ]
     },
     "Selection Development": {
@@ -138,7 +143,10 @@
             "Net ASIN Creation",
             "Non-Apparel ASIN Creation",
             "UPC/GTIN Creation",
-            "Vendor Offer Updater"
+            "Vendor Offer Updater",
+            "Bills of Materials",
+            "VMP- ASIN creation",
+            "VMP Imaging Fix"
         ],
         "Global Vendor Code Creation": [
             "Contra Cogs",
@@ -193,7 +201,8 @@
             "PDT SEO WTS Variation",
             "Search Rank Improvement BP",
             "Search Rank Improvement GK",
-            "Search Rank Improvement Title"
+            "Search Rank Improvement Title",
+            "Document Upload"
         ],
         "Featured Product": [
             "Featured Product Enrollment"
@@ -226,7 +235,8 @@
             "Re-certification of decertified ASINs",
             "Identify packaging optimization opportunities",
             "HPB PO production tracking",
-            "Air Freight Operations"
+            "Air Freight Operations",
+            "Chargebacks Deepdive"
         ],
         "Pricing": [
             "APB FOD ASINs Exclusive",
@@ -240,7 +250,13 @@
             "Deal Creation",
             "Marketing Campaign Building (Gateway, Email, HQP)",
             "Marketing/Deals",
-            "MENA Deal Image"
+            "MENA Deal Image",
+            "VMP ASIN Pricing and Deals"
+        ],
+        "Brand Implementation": [
+            "Key Attributes Value Generation",
+            "Brand Change",
+            "Brand Refresh"
         ],
         "Value Pick": [
             "Value Pick"

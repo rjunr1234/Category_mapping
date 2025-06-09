@@ -8,7 +8,7 @@
             "GlobalX-Vendor Confirmation": ["Vendor Confirmation"],
             "GlobalX-Vendor Code Creation": ["Vendor Code Creation"]
         },
-        "Minimum Health Check": {
+"Minimum Health Check": {
             "Buyability Defect Reduction": [
                 "ASIN Buyability Checks (JP)", "Buyability", "Buyability - VMP",
                 "Buyability SPB WBR Slide Generation", "Unbuyable ASIN Remediation"
@@ -36,7 +36,7 @@
                 "Size Chart Defect", "Size Defect", "Title Defect",
                 "TRA", "Variation Defect"]
         },
-        "Others": {
+"Others": {
             "Others": [
                 "Amazon Retail Analytics", "ASIN Dimension Audit", "Associate Handbook",
                 "FC Flip Notification", "Liquidation", "NeVa Widget", "Newsletter",
@@ -44,12 +44,12 @@
                 "Vendor Training and Magentrix"
             ]
         },
-        "Selection Deprecation": {
+"Selection Deprecation": {
             "ASIN Deprecation": [
                 "ASIN Deprecation", "Un-Deprecation"
             ]
         },
-        "Selection Development": {
+"Selection Development": {
             "Defect Free DP launch": [
                 "Defect Free DP launch", "EU Auto Launch", "Final DP Launch", "US DP Launch"
             ],
@@ -81,7 +81,7 @@
                 "Sample Image Management", "Sample Invoice", "Sample Management"
             ]
         },
-        "Selection Ramp": {
+"Selection Ramp": {
             "DP Optimization": [
                 "Customer Love Optimization A+ Content", "Customer Love Optimization Attribute",
                 "Customer Love Optimization Bullet Point", "Customer Love Optimization Image",
@@ -136,8 +136,8 @@
             "Virtual Bundle": [
                 "Virtual Bundle"
             ]
-{
-    "GlobalX": {
+},
+"GlobalX": {
         "GlobalX-ASIN Creation": [
             "ASIN Set Up",
             "Variation Set Up",
@@ -224,7 +224,7 @@
             "Variation Defect"
         ]
     },
-    "Others": {
+"Others": {
         "Others": [
             "Amazon Retail Analytics",
             "ASIN Dimension Audit",
@@ -301,7 +301,7 @@
             "Sample Management"
         ]
     },
-    "Selection Ramp": {
+"Selection Ramp": {
         "DP Optimization": [
             "Customer Love Optimization A+ Content",
             "Customer Love Optimization Attribute",
